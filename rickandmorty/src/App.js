@@ -5,6 +5,7 @@ import CharacterList from "../src/CharacterList";
 function App() {
   return (
     <div className="App">
+      <h1>Wabadabalubdub!</h1>
     <CharacterList />      
     </div>
   );
